@@ -16,11 +16,11 @@ export OMPI_MCA_mpi_cuda_support=0
 export OMP_PROCESSOR_BIND=true
 
 # Set the number of OpenMP threads to 8
-export OMP_NUM_THREADS=2
+export OMP_NUM_THREADS=1
 
 
 # Run the executable
 ./problem1 16384 &> problem1.out
-./problem2 8192 &> problem2.out.
+./problem2 8192 &> problem2.out
 ./problem3 67108864 &> problem3.out
 ./problem4 8192 &> problem4.out
