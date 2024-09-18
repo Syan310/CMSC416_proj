@@ -4,7 +4,7 @@
 #include <limits>
 #include <cstdio>
 #include <iostream>
-#include <omp.h>
+// #include <omp.h>
 #define POINTS_MIN  1.0
 #define POINTS_MAX  1000.0
 

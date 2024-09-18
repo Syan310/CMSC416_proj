@@ -2,7 +2,7 @@
 #include <cmath>
 #include <vector>
 #include <complex>
-#include <omp.h>
+// #include <omp.h>
 #define POINTS_MIN  -1.0
 #define POINTS_MAX  1.0
 

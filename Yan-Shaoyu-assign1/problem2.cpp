@@ -3,7 +3,7 @@
 #include <vector>
 #include <cstdio>
 #include <iostream>
-#include <omp.h>
+// #include <omp.h>
 
 /* Count the number of edges in the directed graph defined by the adjacency
    matrix A. A is an NxN adjacency matrix stored in row-major. A represents a

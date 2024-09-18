@@ -3,7 +3,7 @@
 #include <vector>
 #include <cstdio>
 #include <iostream>
-#include <omp.h>
+// #include <omp.h>
 /* Return the product of the vector x with every odd indexed element inverted.
    i.e. x_0 * 1/x_1 * x_2 * 1/x_3 * x_4 ...
 
